@@ -11,13 +11,13 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 # Get your Telegram Bot Token from BotFather
 # It's highly recommended to use environment variables for security.
 # Example: TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
-TELEGRAM_BOT_TOKEN = "7097887916:AAE8b0W_OxMxbbra7xuVdbJ1BnxuKobg8x8" # <<< REPLACED WITH YOUR ACTUAL BOT TOKEN
+TELEGRAM_BOT_TOKEN = "" # <<< REPLACED WITH YOUR ACTUAL BOT TOKEN
 
 # Gemini API configuration
 # In the Canvas environment, leave apiKey as "" and it will be provided at runtime.
 # If running outside Canvas, you would put your actual Gemini API key here.
-GEMINI_API_KEY = "AIzaSyDScLlHp8JwDtcCjITNQPVZr4Aujkec6cU" # <<< REPLACED WITH YOUR ACTUAL GEMINI API KEY
-GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
+GEMINI_API_KEY = "" # <<< REPLACED WITH YOUR ACTUAL GEMINI API KEY
+GEMINI_API_URL = ""
 
 # --- Logging Setup ---
 # Enable logging to see what's happening in your bot
