@@ -3,7 +3,7 @@
 
 **Sudhu Ai** is an intelligent Telegram chatbot built with Python, integrated with the **Gemini 2.0 Flash API** from Google. It acts as a conversational assistant with memory, capable of responding to user queries inside Telegram chats in real-time.
 
-![Sudhu Ai Banner](./A_banner_showcases_Sudhu_Ai,_a_Gemini-powered_chat.png)
+![Sudhu Ai Banner](./SudhuAi.png)
 
 ---
 
